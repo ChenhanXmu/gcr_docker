@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/cache-deployer:1.0.0
+FROM l.gcr.io/google/bazel:0.24.0
