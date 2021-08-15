@@ -1,1 +1,1 @@
-FROM l.gcr.io/google/bazel:0.24.0
+FROM gcr.io/kubeflow-images-public/katib/v1alpha2/metrics-collector:v0.1.2-alpha-289-g14dad8b
